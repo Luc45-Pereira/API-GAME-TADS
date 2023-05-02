@@ -1,0 +1,1 @@
+from .Riddles import Riddle
